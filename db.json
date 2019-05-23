@@ -4,6 +4,16 @@
         "id": 1,
         "url": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg",
         "caption": "Puppy running to fetch the stick"
+    },
+    {
+        "id": 2,
+        "url": "https://thumbs-prod.si-cdn.com/iMd1okEa_05yZRECi8pRZn1saZw=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/04/29/0429d0c5-88f8-4463-812e-15a15ae527a1/eurasian_wolf.jpeg",
+        "caption": "Wolf in the snow"
+    },
+    {
+        "id": 3,
+        "url": "https://www.thesprucepets.com/thmb/I2i7jIBL9q7QKueri0uXn5yH__o=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-634869043-58a6e83f5f9b58a3c918ca12.jpg",
+        "caption": "Scarlet macaw mid-flight"
     }],
     "comments": [
      {
